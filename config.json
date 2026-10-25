@@ -1,0 +1,28 @@
+{
+  "font_filename": "NotoSansGujarati-Bold.ttf",
+  "font_url": "https://github.com/googlefonts/noto-fonts/raw/main/hinted/ttf/NotoSansGujarati/NotoSansGujarati-Regular.ttf",
+  "template_pdf_path": "d:\\MSA_10103262_CPRForm.pdf",
+  "output_dir": "d:\\mitesh\\python\\Gujarati2PDF\\output",
+  "excel_path": "data.xlsx",
+  "pdf_filename_col": 0,
+  "end_row": -1,
+  "start_row": 1,
+  "text_fields": [
+    {
+      "col": 1,
+      "page": 0,
+      "x": 100,
+      "y": 200,
+      "font_size": 25,
+      "centered": false
+    },
+    {
+      "col": 2,
+      "page": 1,
+      "x": 100,
+      "y": 50,
+      "font_size": 25,
+      "centered": false
+    }
+  ]
+}
